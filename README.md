@@ -6,6 +6,7 @@ Day 2 -Rock Paper Scissors
 Day 3 -TO DO list
 Day 4 -Passwordstrength checker
 Day 5 -Login page
-Day 6 - Task manager
+Day 6 -Task manager
+Day 7 -Smart calculator
 
 more coming soon...
