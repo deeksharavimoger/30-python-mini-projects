@@ -9,5 +9,6 @@ Day 4 -Passwordstrength checker
 Day 5 -Login page
 Day 6 -Task manager
 Day 7 -Smart calculator
+Day 8 -ASCII color
 
 more coming soon...
