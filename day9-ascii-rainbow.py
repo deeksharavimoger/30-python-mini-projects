@@ -4,6 +4,7 @@ from pyfiglet import Figlet
 from colorama import init, Fore, Style
 
 #initialize colorama
+init(autoreset=True)
 colors = [
     Fore.RED,
     Fore.GREEN,
@@ -40,5 +41,6 @@ def main():
     print("\nGenerating....\n")
     rainbow_ascii(text, font=font_choice, speed=0.03)
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+     main()
+
