@@ -10,5 +10,7 @@ Day 5 -Login page
 Day 6 -Task manager
 Day 7 -Smart calculator
 Day 8 -ASCII color
+Day 9 -ASCII rainbow
+Day 10 - py animation typer
 
 more coming soon...
